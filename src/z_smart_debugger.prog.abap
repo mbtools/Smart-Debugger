@@ -1,5 +1,5 @@
 *<SCRIPT:PERSISTENT>
-"REPORT  SMART_DEBUGGER_SCRIPT.
+REPORT SMART_DEBUGGER_SCRIPT.
 
 *<SCRIPT:HEADER>
 *<SCRIPTNAME>Z_SMART_DEBUGGER_SCRIPT</SCRIPTNAME>
@@ -34,9 +34,9 @@
 *  & Multi-windows program for viewing all objects and data structures in debug
 *  &---------------------------------------------------------------------*
 *  & version: beta 0.9.600
-*  & Git https://github.com/ysichov/SDDE
+*  & Git https://github.com/ysichov/Smart-Debugger
 *  & RU description - https://ysychov.wordpress.com/2020/07/27/abap-simple-debugger-data-explorer/
-*  & EN description - https://github.com/ysichov/SDDE/wiki
+*  & EN description - https://github.com/ysichov/Smart-Debugger/wiki
 
 *  & Written by Yurii Sychov
 *  & e-mail:   ysichov@gmail.com
@@ -52,7 +52,7 @@
 *  & Inspired by
 *  & https://habr.com/ru/articles/504908/
 *  & https://github.com/larshp/ABAP-Object-Visualizer - Abap Object Visualizer
-*  & https://github.com/ysichov/SDE_abapgit - Simple Data Explorer
+*  & https://github.com/ysichov/Simple-Data-Explorer - Simple Data Explorer
 
 CLASS lcl_ai DEFINITION DEFERRED.
 CLASS lcl_data_receiver DEFINITION DEFERRED.
